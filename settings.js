@@ -40,14 +40,23 @@ WORK_TYPE: process.env.WORK_TYPE || 'public'  ,
 ANTI_LINK: process.env.ANTI_LINK || false  ,
 ANTI_BOT: process.env.ANTI_BOT || false  ,
 OWNER_NUMBER: process.env.OWNER_NUMBER || '94764009065'  ,    
-ALIVE: process.env.ALIVE || `default`,
+ALIVE: process.env.ALIVE || `╔═════ೋೋ═════╗ 
+*
+𝗜𝗠 💖 ɢɪʀʟ 🥺𒋨♥️᭄ 😇
+**නම=😌⃟⌘࿔⃝❤️සොනායා බබා*
+*ගම=❤️⃝😒ꦿ࿔හලාවත*
+*වයස=❤️⃝➤⃟̱̱̱̱̄̄̄̄😉 🙈*
+
+*දිනේ=🌹⃝✥⃟☺️0000.04.15*
+
+*🌹⃝✥⃟☺️᭄ꦿ~මහද 🌹⃝⃘̉̉̉̉̉̉🧚පුරා ۝⃟̥̩̩̩̥̩̥͚̮💍ප්‍රේම කරා 🌹⃝❤️࿔⃟࿔ආසම 😒⃟🌹⃟̩̩̩̥ꦿ࿓හීනෙ ඔයා.❤️⃟✦⃝̮̮̮̯̯̯😌*`,
 OWNER_NAME: process.env.OWNER_NAME || 'shashiya' ,     
 AUTO_STATUS_READ:  process.env.AUTO_STATUS_READ  || true  ,    
 AUTO_VOICE:  process.env.AUTO_VOICE  || true  ,
 AUTO_STICKER: process.env.AUTO_STICKER || true  ,
 WELCOME:  process.env.WELCOME  || false ,    
 NUMBER_212_BLOCK: process.env.NUMBER_212_BLOCK || false  ,
-FOOTER: process.env.FOOTER ||  '©ＶＡＪＩＲＡ - ＭＤ - Ｖ4',
+FOOTER: process.env.FOOTER ||  '©ＺＯＮＡＹＡ - ＭＤ - Ｖ 2.0',
 LOGO: process.env.LOGO || `https://telegra.ph/file/0ee8ccbdd85387424df66.jpg` ,
 IMAGE: process.env.IMAGE || `https://telegra.ph/file/0ee8ccbdd85387424df66.jpg`     
 };
