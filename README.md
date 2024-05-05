@@ -22,7 +22,7 @@
 
 ## Bot deploy in whatsapp biussness then not banned
 
-## Pairing code not works request this number https://wa.me/94719199757
+## Try Pairing code in to device then not comes session error https://wa.me/94719199757
 
 <b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
 
@@ -33,6 +33,10 @@
 ## JOIN SUPPORT GROUP
 
 [![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+
+## MY WA CHANNEL
+
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24)
 
 ## MY YT CHANNEL
 
@@ -50,12 +54,12 @@
 
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
-<a href="https://vajira-paircode-f5d762364f53.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 
 ***Wait few minutes to open qr 👇***
 
-<a href="https://pairicode2-494387e3d570.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://paircode2-2034df265851.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 
 <hr>

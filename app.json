@@ -16,25 +16,14 @@
             "required": true,
             "value": "put session id here"
         },
-        "NUMBER_212_BLOCK": {
-            "description": "dont change this",
-            "required": true,
-            "value": "false"
-        },
         "PREFIX": {
             "description": "put prefix here",
             "required": true,
             "value": "."      
         },
-        "WELCOME": {
-            "description": "To turn on/off welcome/goobye message put true/false",
-            "required": true,
-            "value": "false"      
-        },
         "LANG": {
             "description": "To put bot sinhala do not fill here. you want to put bot english put EN here",
-            "required": true,
-            "value": "EN"      
+            "required": true
         },
         "OWNER-NAME": {
             "description": "put Your name herd",
@@ -51,71 +40,10 @@
             "required": true,
              "value": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"
         },
-        "ANTI_BOT": {
-            "description": "put true or false here",
-            "required": true,
-            "value": "true"
-        },
-        "ANTI_LINK": {
-            "description": "put true or false here",
-            "required": true,
-            "value": "true"
-        },
-        "ANTI_BAD": {
-            "description": "put true or false here",
-            "required": true,
-            "value": "true"
-        },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( public or private )",
             "required": true,
-            "value": "public"
-        },
-        "AUTO_VOICE": {
-            "description": "Put true or false to voice on off",
-            "required": true,
-            "value": "false"
-        },
-        "AUTO_STATUS_READ": {
-            "description": "To on auto read message",
-            "required": true,
-            "value": "false"          
-        },
-        "AUTO_TYPING": {
-            "description": "To on auto typing",
-            "required": true,
-            "value": "false"     
-        },
-        "AUTO_RECORDING": {
-            "description": "To on auto recording",
-            "required": true,
-            "value": "false"    
-        },
-        "AUTO_READ": {
-            "description": "To on read message",
-            "required": true,
-            "value": "false"  
-        },
-        "AUTO_BIO": {
-            "description": "To on auto bio",
-            "required": true,
-            "value": "false"      
-        },
-        "AUTO_REACT": {
-            "description": "To on auto auto react",
-            "required": true,
-            "value": "false"          
-        },
-        "ALWAYS_ONLINE": {
-            "description": "To on auto status view",
-            "required": true,
-            "value": "false"              
-        },
-        "AUTO_STICKER": {
-            "description": "Put true or false to sticker on off",
-            "required": true,
-            "value": "false"
-        
+            "value": "private"
         }
     },
     "buildpacks": [
